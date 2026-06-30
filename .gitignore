@@ -1,0 +1,35 @@
+# Build output
+build/
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+
+# Private source tree for local builds
+src/
+stubs/
+build.ps1
+
+# Signing keys
+*.keystore
+*.jks
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Android / Gradle leftovers, if the project is migrated later
+.gradle/
+local.properties
+captures/

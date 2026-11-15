@@ -31,7 +31,7 @@
 | --- | --- |
 | 模块名称 | `FxxkHaoce` |
 | 模块包名 | `com.ysj.fxxk.haoce` |
-| 当前版本 | `1.2.1` |
+| 当前版本 | `1.2.2` |
 | 目标 App 包名 | `app.haoce.com` |
 | 最低 Android SDK | 23 |
 | Xposed 最低版本 | 82 |
@@ -47,7 +47,7 @@ FxxkHaoce.apk
 当前版本对应的 Release Tag：
 
 ```text
-1-1.2.1
+1-1.2.2
 ```
 
 如果 Hook 成功，启动时会看到：
